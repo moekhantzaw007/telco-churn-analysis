@@ -5,6 +5,7 @@ An end-to-end analysis of customer churn at a telecom provider, using SQL for cl
 **Business question:** What drives customer churn, and which interventions would most reduce churn and protect revenue?
 
 **Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/moe.khant.zaw/vizzes)
+   ![Dashboard](Churn_dashboard.png)
 
 **Business problem and recommendations:** see [business_recommendations.md](business_recommendations.md)
 
